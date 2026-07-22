@@ -1,0 +1,16 @@
+Hour,total_transactions,total_revenue,avg_transaction_value,revenue_rank,time_period
+8.0,1,0.55,0.5474,15,Morning Rush
+9.0,74021,39423.35,0.5323,6,Morning Rush
+10.0,120870,65590.77,0.5424,1,Mid Morning
+11.0,94688,51544.7,0.5456,2,Mid Morning
+12.0,49142,27013.93,0.5508,10,Mid Morning
+13.0,35564,20012.76,0.5649,12,Afternoon
+14.0,41755,23696.05,0.5693,11,Afternoon
+15.0,62072,34623.47,0.5587,7,Afternoon
+16.0,82702,44846.69,0.5427,5,Evening Rush
+17.0,92736,49390.71,0.5325,3,Evening Rush
+18.0,89723,46346.78,0.5165,4,Evening Rush
+19.0,62218,32250.25,0.5183,8,Evening Rush
+20.0,53354,27532.22,0.5158,9,Off Peak
+21.0,18808,9600.32,0.5097,13,Off Peak
+22.0,256,137.46,0.5118,14,Off Peak

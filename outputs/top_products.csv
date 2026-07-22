@@ -1,0 +1,11 @@
+revenue_rank,Item_Name,Category_Name,total_transactions,total_revenue,total_profit,avg_profit_margin,return_rate_pct,discount_rate_pct
+1,Broccoli,Cabbage,58905,37782.36,12618.8,33.0,-0.07,3.75
+2,Net Lotus Root (1),Aquatic Tuberous Vegetables,39285,29631.28,8727.62,28.85,-0.06,8.95
+3,Xixia Mushroom (1),Edible Mushroom,47509,29567.83,10005.94,33.42,-0.07,9.22
+4,Wuhu Green Pepper (1),Capsicum,69945,28715.87,8595.05,29.63,-0.06,1.83
+5,Yunnan Shengcai,Flower/Leaf Vegetables,39887,18166.02,6996.9,38.07,-0.03,3.72
+6,Eggplant (2),Solanum,27455,16482.12,5617.64,33.9,-0.05,2.85
+7,Paopaojiao (Jingpin),Capsicum,25338,13379.63,3633.68,28.23,-0.04,2.77
+8,Luosi Pepper,Capsicum,22678,11481.34,3946.26,34.58,-0.03,1.0
+9,Yunnan Lettuces,Flower/Leaf Vegetables,23265,9893.12,3904.87,39.14,-0.04,2.9
+10,Chinese Cabbage,Flower/Leaf Vegetables,19148,9194.57,3619.26,39.77,-0.05,1.54

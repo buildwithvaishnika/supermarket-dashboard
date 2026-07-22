@@ -1,0 +1,243 @@
+Item_Name,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+7 Colour Pepper (1),88,861,778.1185,4,3,4,11,High Performer
+7 Colour Pepper (2),1,1057,1257.8907,5,4,4,13,Star Product
+7 Colour Pepper (Bag),503,18,12.74,1,1,1,3,Underperformer
+Agaricus Bisporus (Bag),223,10,11.172,3,1,1,5,Low Performer
+Agaricus Bisporus (Box),0,4229,3167.99,5,5,5,15,Star Product
+Aihao,8,27,6.0645,4,1,1,6,Low Performer
+Amaranth,0,10292,3574.2025,5,5,5,15,Star Product
+Amaranth (Bag),246,425,163.96800000000002,2,3,3,8,Average Performer
+Apricot Bao Mushroom (1),39,7580,3412.5134,4,5,5,14,Star Product
+Apricot Bao Mushroom (2),37,5061,2155.2885,4,5,4,13,Star Product
+Apricot Bao Mushroom (250 G),632,10,6.86,1,1,1,3,Underperformer
+Apricot Bao Mushroom (Bag),139,1442,1035.5240000000001,3,4,4,11,High Performer
+Artemisia Stelleriana,99,15,7.6615,4,1,1,6,Low Performer
+Basil (Bag),363,40,20.846,2,2,2,6,Low Performer
+Bell Pepper (1),88,673,374.5128,4,3,3,10,High Performer
+Bell Pepper (2),133,289,172.0314,3,3,3,9,Average Performer
+Bell Pepper (Bag),522,6,2.31,1,1,1,3,Underperformer
+Big Broccoli,711,10,3.8393,1,1,1,3,Underperformer
+Black Chicken  Mushroom,917,35,84.4378,1,2,2,5,Low Performer
+Black Chicken Fir Bacteria (Box),541,4,9.702,1,1,1,3,Underperformer
+Black Mushroom (Bag),137,3,2.6180000000000003,3,1,1,5,Low Performer
+Black Porcini,35,4,11.3603,4,1,1,6,Low Performer
+Black Porcini (Box),546,4,11.088,1,1,1,3,Underperformer
+Black Rapeseed,193,240,61.0285,3,3,2,8,Average Performer
+Broccoli,0,58870,37809.38,5,5,5,15,Star Product
+Cabbage Stem (Bag),51,6921,3151.288,4,5,5,14,Star Product
+Caidian Quinoa Artemisia,68,2476,1857.548,4,4,4,12,High Performer
+Caidian Quinoa Artemisia (Bag),283,65,32.606,2,2,2,6,Low Performer
+Caixin,2,10232,4591.1733,5,5,5,15,Star Product
+Caixin (Bag),113,2053,925.3720000000001,3,4,4,11,High Performer
+Changxianqie,0,5902,3683.8308,5,5,5,15,Star Product
+Chicken Fir Bacteria,1007,7,12.8936,1,1,1,3,Underperformer
+Chinese Cabbage,94,19140,9202.1606,4,5,5,14,Star Product
+Chinese Cabbage (Bag),285,342,393.33,2,3,3,8,Average Performer
+Chinese Cabbage Seedling,86,39,16.3189,4,2,2,8,Average Performer
+Chinese Caterpillar Fungus Flowers,28,321,161.7232,4,3,3,10,High Performer
+Chinese Caterpillar Fungus Flowers (Bag),0,2087,1667.176,5,4,4,13,Star Product
+Chinese Caterpillar Fungus Flowers (Box) (2),876,1,1.806,1,1,1,3,Underperformer
+Chopped Red Pine,72,6,8.6255,4,1,1,6,Low Performer
+Chopped Red Pine (Box),541,5,11.76,1,1,1,3,Underperformer
+Chuncai,425,40,25.7195,2,2,2,6,Low Performer
+Crab Flavor Mushroom And White Mushroom Mix (Box),0,371,410.452,5,3,3,11,High Performer
+Dalong Eggplant,744,2409,1432.7282,1,4,4,9,Average Performer
+Dongmenkou Xiaobaicai,407,4160,1122.0213,2,4,4,10,High Performer
+Eggplant (1),1,608,453.2777,5,3,3,11,High Performer
+Eggplant (2),0,27445,16491.6569,5,5,5,15,Star Product
+Embroidered Aureus,809,7,12.586,1,1,1,3,Underperformer
+Embroidered Aureus (Bag),426,2,3.584,2,1,1,4,Low Performer
+Foreign Garland Chrysanthemum ,3,1588,1637.9573,5,4,4,13,Star Product
+Foreign Garland Chrysanthemum  (Bag),271,127,133.336,2,2,3,7,Average Performer
+Fresh Black Fungus (1),706,847,407.0289,1,3,3,7,Average Performer
+Fresh Edible Fungus (2),425,86,50.0824,2,2,2,6,Low Performer
+Fresh Edible Fungus (Bag),4,741,224.994,5,3,3,11,High Performer
+Fresh Lotus Root Zone (Bag),773,19,54.348,1,1,2,4,Low Performer
+Fresh Rice Dumplings Leaves,747,44,17.0837,1,2,2,5,Low Performer
+Fresh Sea (2),427,195,102.8001,2,3,3,8,Average Performer
+Fruit Chili,162,133,88.1272,3,2,3,8,Average Performer
+Fruit Pepper (Bag),332,283,306.6,2,3,3,8,Average Performer
+Fruit Pepper (Orange),510,1,1.499,1,1,1,3,Underperformer
+Ganlanye,841,2,1.5842999999999998,1,1,1,3,Underperformer
+Garden Chrysanthemum,55,10119,3764.8955,4,5,5,14,Star Product
+Garden Chrysanthemum (Bag),467,586,190.4,2,3,3,8,Average Performer
+Ginger And Xiaomijiao Mix (Small Bag),0,1868,1056.692,5,4,4,13,Star Product
+Green And Red Hang Pepper Mix (Bag),0,1258,676.844,5,4,4,13,Star Product
+Green And Red Jian Pepper Mix (Bag),73,45,34.902,4,2,2,8,Average Performer
+Green Butter,443,5,3.1961,2,1,1,4,Low Performer
+Green Caitai,845,61,12.7155,1,2,1,4,Low Performer
+Green Eggplant (1),1,5998,3271.8178,5,5,5,15,Star Product
+Green Eggplant (2),157,527,168.1654,3,3,3,9,Average Performer
+Green Hang Pepper (Bag),277,455,199.234,2,3,3,8,Average Performer
+Green Hangjiao (1),662,5,4.6364,1,1,1,3,Underperformer
+Green Hangzhou Pepper (2),374,631,159.9422,2,3,3,8,Average Performer
+Green Hot Peppers,61,3549,1872.0786,4,4,4,12,High Performer
+Green Hot Peppers (Bag),174,932,454.09000000000003,3,4,3,10,High Performer
+Green Line Pepper,155,10604,4323.1608,3,5,5,13,Star Product
+Green Line Pepper (Bag),4,2307,1326.332,5,4,4,13,Star Product
+Haixian Mushroom (1),643,2204,1084.3906,1,4,4,9,Average Performer
+Haixian Mushroom (Bag),178,1303,1148.5320000000002,3,4,4,11,High Performer
+Haixian Mushroom (Bag) (1),650,1256,736.6800000000001,1,4,4,9,Average Performer
+Haixian Mushroom (Bag) (2),132,708,410.368,3,3,3,9,Average Performer
+Haixian Mushroom (Bag) (3),67,1775,901.6,4,4,4,12,High Performer
+Haixian Mushroom (Bag) (4),530,2149,1118.2640000000001,1,4,4,9,Average Performer
+Haixian Mushroom (Bunch),0,1300,584.892,5,4,4,13,Star Product
+Hericium ,478,3,3.4299999999999997,2,1,1,4,Low Performer
+Hfyg Haixian Mushroom (Bunch),336,109,34.16,2,2,2,6,Low Performer
+High Melon (1),0,3558,2277.3556,5,4,5,14,Star Product
+High Melon (2),0,1925,1255.6792,5,4,4,13,Star Product
+Honghu Lotus (Lotus Root),280,40,55.327999999999996,2,2,2,6,Low Performer
+Honghu Lotus Root,0,2067,3004.8258,5,4,5,14,Star Product
+Honghu Lotus Root Powder (Fenou),69,5998,9017.4,4,5,5,14,Star Product
+Hongshan Caitai,230,25,13.86,3,1,1,5,Low Performer
+Hongshan Gift Box,158,3,6.832000000000001,3,1,1,5,Low Performer
+Hongshan Shoutidai,174,3,6.23,3,1,1,5,Low Performer
+Hongshujian,0,13081,4239.2411,5,5,5,15,Star Product
+Hongshujian (Bag),299,726,199.038,2,3,3,8,Average Performer
+Hua Eggplant,355,193,160.8619,2,3,3,8,Average Performer
+Huangbaicai (2),12,14361,7492.4237,4,5,5,14,Star Product
+Huanghuacai,48,11,17.865,4,1,2,7,Average Performer
+Huangxincai (2),8,3392,1853.4587,4,4,4,12,High Performer
+Ice Grass,511,48,32.1746,1,2,2,5,Low Performer
+Ice Grass (Box),13,29,35.756,4,2,2,8,Average Performer
+Jicai,140,38,12.8923,3,2,1,6,Low Performer
+Jigu (2),427,75,34.1066,2,2,2,6,Low Performer
+Jigu (Bag),237,683,306.13800000000003,3,3,3,9,Average Performer
+Jigu Mushroom (1),643,1824,792.671,1,4,4,9,Average Performer
+Jigu Mushroom (Bunch),166,1073,927.346,3,4,4,11,High Performer
+Juhua Youcai,707,21,11.8608,1,1,1,3,Underperformer
+Kuaicai,1051,253,105.4852,1,3,3,7,Average Performer
+Lameizi,542,453,195.43110000000001,1,3,3,7,Average Performer
+Local Shanghaiqing,236,1252,208.2567,3,4,3,10,High Performer
+Local Xiaomao Cabbage,193,306,77.6289,3,3,2,8,Average Performer
+Longyacai,142,263,220.9672,3,3,3,9,Average Performer
+Lotus (Ea),285,494,633.22,2,3,4,9,Average Performer
+Lotus Root Tip,535,34,10.4237,1,2,1,4,Low Performer
+Luosi Pepper,0,22672,11484.4995,5,5,5,15,Star Product
+Luosi Pepper (Bag),0,8239,5705.0560000000005,5,5,5,15,Star Product
+Machixian,18,312,121.8504,4,3,3,10,High Performer
+Malan Head,442,28,22.577099999999998,2,2,2,6,Low Performer
+Miantiaocai,88,63,16.5056,4,2,2,8,Average Performer
+Millet Pepper,59,13332,5730.7707,4,5,5,14,Star Product
+Millet Pepper (Bag),0,10835,7708.68,5,5,5,15,Star Product
+Mint,20,69,18.6911,4,2,2,8,Average Performer
+Muercai,0,3865,1554.8029,5,4,4,13,Star Product
+Muercai (Bag),0,27,13.566,5,1,1,7,Average Performer
+Mushroom And Leaf Mix (Bag),180,13,12.138000000000002,3,1,1,5,Low Performer
+Mustard,63,104,51.8508,4,2,2,8,Average Performer
+Naibai Caimiao,700,41,23.5606,1,2,2,5,Low Performer
+Naibaicai,0,13347,3895.5428,5,5,5,15,Star Product
+Nanguajian,718,42,21.223,1,2,2,5,Low Performer
+Needle Mushroom (1),135,11278,5227.1999,3,5,5,13,Star Product
+Needle Mushroom (2),196,1148,795.9813,3,4,4,11,High Performer
+Needle Mushroom (Bag),307,1,0.49,2,1,1,4,Low Performer
+Needle Mushroom (Bag) (1),640,1987,878.15,1,4,4,9,Average Performer
+Needle Mushroom (Bag) (2),292,3179,1398.46,2,4,4,10,High Performer
+Needle Mushroom (Bag) (3),660,2536,1180.886,1,4,4,9,Average Performer
+Needle Mushroom (Box),0,15585,8213.73,5,5,5,15,Star Product
+Net Lotus Root (1),0,39263,29647.7753,5,5,5,15,Star Product
+Net Lotus Root (2),138,89,51.9441,3,2,2,7,Average Performer
+Net Lotus Root (3),169,632,357.4027,3,3,3,9,Average Performer
+Niushou Shengcai,31,2087,490.8505,4,4,4,12,High Performer
+Niushou Youcai,486,8016,2126.2761,2,5,4,11,High Performer
+Panax Notoginseng,111,177,85.3794,4,3,2,9,Average Performer
+Paopaojiao (Jingpin),501,25330,13385.5186,2,5,5,12,High Performer
+Pepper Mix,677,639,1320.578,1,3,4,8,Average Performer
+Perilla,20,234,81.7511,4,3,2,9,Average Performer
+Ping Mushroom,144,6882,2750.3607,3,5,5,13,Star Product
+Powcan Mountain Chinese Cabbage ,137,6403,2246.5593,3,5,5,13,Star Product
+Purple Beicai,35,153,62.4481,4,2,2,8,Average Performer
+Purple Cabbage (1),427,24,25.2354,2,1,2,5,Low Performer
+Purple Cabbage (2),433,2,1.2633999999999999,2,1,1,4,Low Performer
+Purple Hot Peppers,566,7,3.929,1,1,1,3,Underperformer
+Purple Screw Pepper,161,29,16.7417,3,2,2,7,Average Performer
+Qinggengsanhua,14,15269,8158.9059,4,5,5,14,Star Product
+Radish Leaves,223,820,294.5333,3,3,3,9,Average Performer
+Red Bell Pepper (2),133,650,558.2595,3,3,4,10,High Performer
+Red Bell Pepper (Bag),504,13,6.622,1,1,1,3,Underperformer
+Red Coral (Leaf),443,5,1.8906,2,1,1,4,Low Performer
+Red Hang Pepper,121,4309,2117.7768,3,5,4,12,High Performer
+Red Hang Pepper (Bag),153,708,476.574,3,3,3,9,Average Performer
+Red Hot Peppers,78,1869,899.7413,4,4,4,12,High Performer
+Red Hot Peppers (Bag),108,952,781.914,4,4,4,12,High Performer
+Red Line Pepper,346,247,53.7257,2,3,2,7,Average Performer
+Red Lotus Root Zone,0,352,150.57580000000002,5,3,3,11,High Performer
+Red Oak Leaf,443,3,1.1614,2,1,1,4,Low Performer
+Red Pepper (1),106,12642,8023.9254,4,5,5,14,Star Product
+Red Pepper (2),0,3186,1812.2105999999999,5,4,4,13,Star Product
+Red Pepper (Bag),274,93,44.506,2,2,2,6,Low Performer
+Round Eggplant,363,14,13.234300000000001,2,1,1,4,Low Performer
+Round Eggplant (1),294,12,3.6261,2,1,1,4,Low Performer
+Round Eggplant (2),0,1773,1092.5704,5,4,4,13,Star Product
+Shanghai Green (Bag),132,3070,1272.726,3,4,4,11,High Performer
+Shanghaiqing,0,16641,7966.1303,5,5,5,15,Star Product
+Shuanggou Cabbage,599,4,2.4243,1,1,1,3,Underperformer
+Sichuan Red Cedar,68,1535,1477.9169,4,4,4,12,High Performer
+Siguajian,125,35,40.1085,3,2,2,7,Average Performer
+Sophora Japonica,45,41,24.3698,4,2,2,8,Average Performer
+Spinach,4,14197,7332.3988,5,5,5,15,Star Product
+Spinach (Bag),0,6348,3552.9900000000002,5,5,5,15,Star Product
+Suizhou Bubble Green,132,1317,397.6408,3,4,3,10,High Performer
+Sweet Chinese Cabbage,252,5883,4991.4099,2,5,5,12,High Performer
+Tea Tree Mushroom (Bag),147,90,107.94,3,2,3,8,Average Performer
+The Agaricus Bisporus,633,2480,1814.6729,1,4,4,9,Average Performer
+The Crab Flavor Mushroom (1),247,102,53.186,2,2,2,6,Low Performer
+The Crab Flavor Mushroom (2),508,95,55.202000000000005,1,2,2,5,Low Performer
+The Crab Flavor Mushroom (Bag),790,400,277.494,1,3,3,7,Average Performer
+The Crab Flavor Mushroom (Box),485,81,32.508,2,2,2,6,Low Performer
+The Dandelion,83,31,17.3482,4,2,2,8,Average Performer
+The Fungus Mushroom Hot Pot Package (Bag),162,8,12.614,3,1,1,5,Low Performer
+The Local Yellow Youcai,171,2340,579.5777,3,4,4,11,High Performer
+The Pork Stomach Mushroom (Box),535,7,11.116,1,1,1,3,Underperformer
+The Red Bell Pepper (1),72,870,689.0554,4,3,4,11,High Performer
+The Steak Mushrooms,600,25,26.2367,1,1,2,4,Low Performer
+The Steak Mushrooms (Box),119,35,40.012,3,2,2,7,Average Performer
+The White Mushroom (1),719,22,15.092,1,1,1,3,Underperformer
+The White Mushroom (2),762,251,141.232,1,3,3,7,Average Performer
+The White Mushroom (Bag),0,2921,2869.006,5,4,5,14,Star Product
+The White Mushroom (Box),482,164,68.08200000000001,2,2,2,6,Low Performer
+Tremella (Flower),62,288,171.556,4,3,3,10,High Performer
+Velvet Antler Mushroom (Box),133,3,2.0580000000000003,3,1,1,5,Low Performer
+Wandoujian,120,391,158.7738,3,3,3,9,Average Performer
+Water Chestnut,141,2841,1494.4868,3,4,4,11,High Performer
+Water Chestnut (Bag),496,10,8.26,2,1,1,4,Low Performer
+Water Chestnut (Lingjiao),0,307,246.7057,5,3,3,11,High Performer
+Wawacai,0,8976,6322.736,5,5,5,15,Star Product
+White Caitai,106,1305,402.7928,4,4,3,11,High Performer
+White Jelly Mushroom,821,1,0.686,1,1,1,3,Underperformer
+Wild Lotus Root (1),25,890,653.5253,4,4,4,12,High Performer
+Wild Lotus Root (2),221,19,20.7443,3,1,2,6,Low Performer
+Wild Pink Lotus Root,0,75,102.83840000000001,5,2,3,10,High Performer
+Wuhu Green Pepper (1),0,69907,28730.7455,5,5,5,15,Star Product
+Xiangtianhongcaitai (Bag),510,41,21.378,1,2,2,5,Low Performer
+Xianzongye,394,28,15.9984,2,2,1,5,Low Performer
+Xianzongye (Bag) (1),386,41,165.2,2,2,3,7,Average Performer
+Xianzongye (Bag) (2),400,8,5.488,2,1,1,4,Low Performer
+Xianzongye (Bag) (3),12,92,121.38,4,2,3,9,Average Performer
+Xiaoqingcai (1),0,7905,2631.0844,5,5,5,15,Star Product
+Xiaoqingcai (2),502,296,63.644,1,3,2,6,Low Performer
+Xiaoqingcai (Bag),130,4057,1711.612,3,4,4,11,High Performer
+Xiaozhoupi,35,641,269.0606,4,3,3,10,High Performer
+Xiaozhoupi (Bag),0,5175,2461.9,5,5,5,15,Star Product
+Xiuzhen Mushroom,863,63,31.3369,1,2,2,5,Low Performer
+Xixia Black Mushroom (1),0,11400,8425.5761,5,5,5,15,Star Product
+Xixia Black Mushroom (2),427,44,24.9289,2,2,2,6,Low Performer
+Xixia Mushroom (1),108,47475,29589.998,4,5,5,14,Star Product
+Xixia Xianggu Mushroom (2),195,1878,1262.1342,3,4,4,11,High Performer
+Xixia Xianggu Mushroom (Bag),132,379,258.79,3,3,3,9,Average Performer
+Yellow Baicai (1),166,443,164.3223,3,3,3,9,Average Performer
+Yellow Xincai (1),76,4804,2517.4337,4,5,5,14,Star Product
+Youcaitai,812,100,53.3232,1,2,2,5,Low Performer
+Yuganjiao,634,121,60.1367,1,2,2,5,Low Performer
+Yunnan Leaf Lettuce (Bag),0,8855,5001.528,5,5,5,15,Star Product
+Yunnan Lettuce (Bag),0,14318,8965.81,5,5,5,15,Star Product
+Yunnan Lettuces,3,23257,9896.9189,5,5,5,15,Star Product
+Yunnan Shengcai,1,39877,18171.6303,5,5,5,15,Star Product
+Yuxingcao ,429,106,46.6126,2,2,2,6,Low Performer
+Yuxingcao (Bag),74,470,306.62800000000004,4,3,3,10,High Performer
+Zhijiang Qinggengsanhua,0,12360,6643.4405,5,5,5,15,Star Product
+Zhijiang Red Bolt,112,8731,4319.1562,4,5,5,14,Star Product
+Zhijiang Red Bolt (Bag),499,313,95.424,2,3,3,8,Average Performer
+Zhimaxiancai,407,27,7.8804,2,2,1,5,Low Performer
+Zhuyecai,0,16172,5453.9014,5,5,5,15,Star Product
+Zhuyecai (Bag),300,1076,318.836,2,4,3,9,Average Performer
